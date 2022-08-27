@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29a45997-0586-40ae-bd07-5d402b522b83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataStrucutre.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/double_linkedlist/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/double_linkedlist/dlinked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodes/node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slinkedlist/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slinkedlist/linkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_doublelinkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_linkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_node.py" afterDir="false" />
+    <list default="true" id="29a45997-0586-40ae-bd07-5d402b522b83" name="Changes" comment="linkedlis double linked">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/double_linkedlist/dlinked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/double_linkedlist/dlinked_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,8 +172,16 @@
       <workItem from="1659528135406" duration="26441000" />
       <workItem from="1659635549302" duration="1277000" />
       <workItem from="1661556705546" duration="13704000" />
-      <workItem from="1661602403616" duration="22202000" />
+      <workItem from="1661602403616" duration="23801000" />
     </task>
+    <task id="LOCAL-00001" summary="linkedlis double linked">
+      <created>1661630211617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661630211617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +197,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="linkedlis double linked" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkedlis double linked" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -244,7 +239,7 @@
     <SUITE FILE_PATH="coverage/dataStrucutre$pytest_in_test_doublelinkedlist_py.coverage" NAME="pytest in test_doublelinkedlist.py Coverage Results" MODIFIED="1661560268402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/dataStrucutre$pytest_for_test_doublelinkedlist_TestClass_test_delete.coverage" NAME="pytest for test_doublelinkedlist.TestClass.test_delete Coverage Results" MODIFIED="1661620483632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/dataStrucutre$pytest_for_test_array_test_instance_array.coverage" NAME="pytest for test_array.test_instance_array Coverage Results" MODIFIED="1659486570521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/dataStrucutre$pytest_for_test_doublelinkedlist_TestClass_test_insert_item_at_position.coverage" NAME="pytest for test_doublelinkedlist.TestClass.test_insert_item_at_position Coverage Results" MODIFIED="1661629255219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/dataStrucutre$pytest_for_test_doublelinkedlist_TestClass_test_insert_item_at_position.coverage" NAME="pytest for test_doublelinkedlist.TestClass.test_insert_item_at_position Coverage Results" MODIFIED="1661630092237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/dataStrucutre$pytest_for_test_array_test_setitem.coverage" NAME="pytest for test_array.test_setitem Coverage Results" MODIFIED="1659491072693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/dataStrucutre$pytest_for_test_array_test_array.coverage" NAME="pytest for test_array.test_array Coverage Results" MODIFIED="1659487583324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/dataStrucutre$pytest_for_test_linkedlist_test_linked_list_getitem_index_out_of_range.coverage" NAME="pytest for test_linkedlist.test_linked_list_getitem_index_out_of_range Coverage Results" MODIFIED="1659576745784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
